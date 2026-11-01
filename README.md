@@ -11,4 +11,7 @@
 
 
 
-![Cobrinha do GitHub](https://rbonifaciogalvao-sudo.com)
+
+## 🐍 Minhas contribuições
+
+![Snake animation](https://raw.githubusercontent.com/rbonifaciogalvao-sudo/rbonifaciogalvao-sudo/output/github-snake.svg)
