@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#00C853&color_dots=#D1D5DB,#9BE9A8,#40C463,#30A14E,#216E39
+            dist/github-snake.svg?color_snake=#00C853&color_dots=#5e615f,#9BE9A8,#40C463,#30A14E,#216E39
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Publish Snake
