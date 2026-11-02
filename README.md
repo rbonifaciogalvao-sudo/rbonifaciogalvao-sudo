@@ -1,4 +1,4 @@
-= # Rafaela 👩🏻‍💻 <h2>
+ # Rafaela 👩🏻‍💻 <h2>
 
 **`Estudante de ADS`**
 
