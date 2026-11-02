@@ -51,7 +51,7 @@ Sou a Rafaela, tenho 18 anos e sou de S√£o Paulo. Atualmente, estou cursando An√
 <br>
 
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=radical)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rbonifaciogalvao-sudo&show_icons=true&theme=radical)
 
 
 
