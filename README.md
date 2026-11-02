@@ -1,6 +1,10 @@
-# Rafaela 👩🏻‍💻 <h2>
+ # Rafaela 👩🏻‍💻 <h2>
 
 **`Estudante de ADS`**
+
+<p>
+ Sou a Rafaela, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Amo a tecnologia, busco aprendizado na área todos os dias 😄.
+ </p>
 
  <div> 
   <a href="https://www.instagram.com/rafaelab.galvao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
