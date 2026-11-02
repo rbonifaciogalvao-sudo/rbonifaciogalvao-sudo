@@ -50,6 +50,6 @@ Sou a Rafaela, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando An�
 />
 <br>
 <br>
-##  Minhas contribuições 🎀
+
 
 ![Snake animation](https://raw.githubusercontent.com/rbonifaciogalvao-sudo/rbonifaciogalvao-sudo/output/github-snake.svg)
