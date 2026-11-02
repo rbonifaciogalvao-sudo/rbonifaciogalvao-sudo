@@ -12,6 +12,6 @@
 
 
 
-## 🐍 Minhas contribuições
+##  Minhas contribuições 🎀
 
 ![Snake animation](https://raw.githubusercontent.com/rbonifaciogalvao-sudo/rbonifaciogalvao-sudo/output/github-snake.svg)
