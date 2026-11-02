@@ -52,8 +52,9 @@ Sou a Rafaela, tenho 18 anos e sou de S√£o Paulo. Atualmente, estou cursando An√
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbonifaciogalvao-sudo&layout=compact&theme=radical&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbonifaciogalvao-sudo&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbonifaciogalvao-sudo&layout=compact&theme=radical&langs_count=8)
 
 
 ![Snake animation](https://raw.githubusercontent.com/rbonifaciogalvao-sudo/rbonifaciogalvao-sudo/output/github-snake.svg)
