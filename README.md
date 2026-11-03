@@ -15,6 +15,7 @@ Sou a Rafaela, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando An�
 
 ### 🤖 Linguagens e Tecnologias
 
+
 <img 
     align="left" 
     alt="HTML"
