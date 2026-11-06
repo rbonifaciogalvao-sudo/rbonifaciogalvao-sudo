@@ -23,7 +23,7 @@
 
 ## 📂 Projetos em destaque
 
-- [Projetos em C](https://github.com/rbonifaciogalvao-sudo/C_studies/edit/main/README.md)
+- [Projetos em C](https://github.com/rbonifaciogalvao-sudo/C_studies)
   Exercícios de lógica de programação, criptografia e algoritmos de ordenação. 
 
 - [Projeto Banco de Dados](https://github.com/rbonifaciogalvao-sudo/lolly-fantasias-entrega-2)
