@@ -1,5 +1,4 @@
-
-<img width="1672" height="941" alt="Cartão de Perfil Pixel Retrô da Rafaela" src="https://github.com/user-attachments/assets/581dba68-b971-46bc-bf3e-47370c90d875" />
+<img width="1774" height="887" alt="Banner pixel art kawaii da Rafaela" src="https://github.com/user-attachments/assets/c6f63024-d9ab-460a-85c8-bb7513be2d83" />
 
 <br>
 
