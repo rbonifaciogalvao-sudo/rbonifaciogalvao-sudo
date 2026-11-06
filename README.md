@@ -48,6 +48,15 @@ Sou a Rafaela, tenho 18 anos e sou de SÃ£o Paulo. Atualmente, estou cursando AnÃ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="C" 
+    title="Linguagem C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="imagens/logo-c.png" 
+/>
 <br>
 <br>
 
