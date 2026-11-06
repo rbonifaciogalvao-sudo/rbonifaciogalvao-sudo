@@ -1,4 +1,7 @@
-<img width="1774" height="887" alt="Banner pixel art kawaii da Rafaela" src="https://github.com/user-attachments/assets/c6f63024-d9ab-460a-85c8-bb7513be2d83" />
+
+
+<img width="2172" height="724" alt="Banner pixel art rosa com avatar e janela retrô" src="https://github.com/user-attachments/assets/f7c5f566-a0d9-4074-a588-f394bfb203e7" />
+
 
 <br>
 
