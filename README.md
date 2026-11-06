@@ -1,4 +1,4 @@
- # Rafaela 👩🏻‍💻 <h2>
+ # Rafaela 👩🏻‍💻 <h1>
 
 Estudante de ADS 🤓🖥️
 
@@ -57,7 +57,7 @@ Sou a Rafaela, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando An�
 <br>
 <br>
 
-# 📱 Minhas redes sociais <h2>
+# 📱 Minhas redes sociais <h3>
 
  <div> 
   <a href="https://www.instagram.com/rafaelab.galvao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
