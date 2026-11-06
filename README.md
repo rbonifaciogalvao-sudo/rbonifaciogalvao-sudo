@@ -52,10 +52,10 @@ Sou a Rafaela, tenho 18 anos e sou de S√£o Paulo. Atualmente, estou cursando An√
 <img 
     align="left" 
     alt="C" 
-    title="Linguagem C"
+    title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="imagens/logo-c.png" 
+    src="./logo-c.png" 
 />
 <br>
 <br>
