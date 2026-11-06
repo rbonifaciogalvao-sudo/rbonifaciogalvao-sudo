@@ -26,7 +26,8 @@
 
 ## 📂 Projetos em destaque
 
-🔹 **Projetos em C:** exercícios de lógica de programação, criptografia e algoritmos de ordenação.
+🔹 **Projetos em C:** exercícios de lógica de programação, criptografia e algoritmos de ordenação. 
+[Projetos em C](https://github.com/rbonifaciogalvao-sudo/C_studies/edit/main/README.md)
 
 🔹 **Modelagem de Banco de Dados:** desenvolvimento de um projeto acadêmico envolvendo levantamento de requisitos, modelagem e SQL.
 
