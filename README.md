@@ -2,6 +2,7 @@
 <img width="1704" height="459" alt="image" src="https://github.com/user-attachments/assets/cef76db6-2aab-4a94-8ae9-02bc557e0e59" />
 
 <br>
+<br>
 
 - Estudante de Análise e Desenvolvimento de Sistemas 🖥️
 
@@ -45,7 +46,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="C" 
