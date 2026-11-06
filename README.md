@@ -1,13 +1,10 @@
+
  # Rafaela 👩🏻‍💻 <h1>
 
-Estudante de ADS 🤓🖥️
 
+<img width="1672" height="941" alt="Cartão de Perfil Pixel Retrô da Rafaela" src="https://github.com/user-attachments/assets/581dba68-b971-46bc-bf3e-47370c90d875" />
 
-- Cursando Análise e Desenvolvimento de Sistemas na UNICID. 
-
-
-
-
+<br>
 
 ### 🤖 Linguagens e Tecnologias
 
