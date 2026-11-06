@@ -6,10 +6,6 @@ Estudante de ADS 🤓🖥️
 Sou a Rafaela, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Amo a tecnologia, e sempre estou buscando aprimorar meu conhecimento na área 😄.
  </p>
 
- <div> 
-  <a href="https://www.instagram.com/rafaelab.galvao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaela-bonifacio-galvão-86b97a400" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 
 
@@ -59,6 +55,20 @@ Sou a Rafaela, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando An�
 />
 <br>
 <br>
+<br>
+
+# 📱 Minhas redes sociais <h2>
+
+ <div> 
+  <a href="https://www.instagram.com/rafaelab.galvao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaela-bonifacio-galvão-86b97a400" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
+<br>
+<br>
+
+
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=rbonifaciogalvao-sudo&theme=radical)](https://github.com/rbonifaciogalvao-sudo/github-readme-stats-fast)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rbonifaciogalvao-sudo&layout=compact&theme=radical&langs_count=10&size_weight=0.5&count_weight=0.5&a=1)
