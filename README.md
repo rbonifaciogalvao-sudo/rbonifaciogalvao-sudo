@@ -4,8 +4,13 @@
 <br>
 <br>
 
-- Estudante de Análise e Desenvolvimento de Sistemas 🖥️
 
+-  Estudante de Análise e Desenvolvimento de Sistemas na UNICID. 🎓
+
+-  Atualmente, estou desenvolvendo meus conhecimentos em HTML, CSS, JavaScript, Python, C e SQL. 💻
+
+-  Tenho interesse em Desenvolvimento Full Stack e estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em prática por meio de projetos acadêmicos e pessoais. 💻
+  
 <br>
 <h1>
   Linguagens e Tecnologias  🤖
