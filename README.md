@@ -18,9 +18,6 @@
 - Desenvolvendo projetos acadêmicos de modelagem de banco de dados e SQL.
 - Explorando novas possibilidades na área de Desenvolvimento Full Stack.
 <br>
-<h1>
-  Linguagens e Tecnologias  🤖
-</h1>
 
 <br>
 
@@ -35,6 +32,11 @@
  - [Projetos em Python](https://github.com/rbonifaciogalvao-sudo/python-studies)
    Práticas desenvolvidas durante meus estudos de programação.
 
+<br>
+
+<h1>
+  Linguagens e Tecnologias  🤖
+</h1>
 
 
 <img 
