@@ -7,8 +7,11 @@
 
 <br>
 <h1>
- 🤖 Linguagens e Tecnologias 
+  Linguagens e Tecnologias  🤖
 </h1>
+
+<br>
+
 
 <img 
     align="left" 
