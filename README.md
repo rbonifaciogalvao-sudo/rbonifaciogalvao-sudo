@@ -26,12 +26,16 @@
 
 ## 📂 Projetos em destaque
 
-🔹 **Projetos em C:** exercícios de lógica de programação, criptografia e algoritmos de ordenação. 
-[Projetos em C](https://github.com/rbonifaciogalvao-sudo/C_studies/edit/main/README.md)
+- [Projetos em C](https://github.com/rbonifaciogalvao-sudo/C_studies/edit/main/README.md)
+  Exercícios de lógica de programação, criptografia e algoritmos de ordenação. 
 
-🔹 **Modelagem de Banco de Dados:** desenvolvimento de um projeto acadêmico envolvendo levantamento de requisitos, modelagem e SQL.
+- [Projeto Banco de Dados](https://github.com/rbonifaciogalvao-sudo/lolly-fantasias-entrega-2)
+  Desenvolvimento de um projeto acadêmico envolvendo levantamento de requisitos, modelagem e SQL.
 
-🔹 **JavaScript:** exercícios práticos utilizando funções, lógica de programação e manipulação de dados.
+ - [Projetos em Python](https://github.com/rbonifaciogalvao-sudo/python-studies)
+   Práticas desenvolvidas durante meus estudos de programação.
+
+
 
 <img 
     align="left" 
