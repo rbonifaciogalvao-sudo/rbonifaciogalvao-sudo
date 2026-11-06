@@ -6,8 +6,9 @@
 - Estudante de Análise e Desenvolvimento de Sistemas 🖥️
 
 <br>
-### 🤖 Linguagens e Tecnologias
-
+<h1>
+ 🤖 Linguagens e Tecnologias 
+</h1>
 
 <img 
     align="left" 
