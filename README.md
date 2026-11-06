@@ -24,6 +24,13 @@
 
 <br>
 
+## 📂 Projetos em destaque
+
+🔹 **Projetos em C:** exercícios de lógica de programação, criptografia e algoritmos de ordenação.
+
+🔹 **Modelagem de Banco de Dados:** desenvolvimento de um projeto acadêmico envolvendo levantamento de requisitos, modelagem e SQL.
+
+🔹 **JavaScript:** exercícios práticos utilizando funções, lógica de programação e manipulação de dados.
 
 <img 
     align="left" 
