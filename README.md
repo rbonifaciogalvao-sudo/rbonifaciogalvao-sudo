@@ -1,6 +1,6 @@
  # Rafaela 👩🏻‍💻 <h2>
 
-**`Estudante de ADS`**
+Estudante de ADS
 
 <p>
 Sou a Rafaela, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Amo a tecnologia, e sempre estou buscando aprimorar meu conhecimento na área 😄.
