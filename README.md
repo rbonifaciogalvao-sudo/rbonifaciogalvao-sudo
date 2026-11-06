@@ -95,4 +95,5 @@
 
 ![Snake animation](https://raw.githubusercontent.com/rbonifaciogalvao-sudo/rbonifaciogalvao-sudo/output/github-snake.svg)
 
-Amo a tecnologia, e sempre estou buscando aprimorar meu conhecimento na área 😄.
+A tecnologia está em constante evolução, e eu também! 💗 
+Estou sempre em busca de novos conhecimentos, desafios e oportunidades para crescer na área de TI. 😄
