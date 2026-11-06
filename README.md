@@ -32,6 +32,8 @@
  - [Projetos em Python](https://github.com/rbonifaciogalvao-sudo/python-studies)
    Práticas desenvolvidas durante meus estudos de programação.
 
+- [Projetos em HTML e JavaScript](https://github.com/rbonifaciogalvao-sudo/estudos-)
+Práticas de desenvolvimento Front-End, utilizando HTML, JavaScript, funções e lógica de programação.
 <br>
 
 <h1>
