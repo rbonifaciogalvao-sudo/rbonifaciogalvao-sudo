@@ -55,7 +55,7 @@ Sou a Rafaela, tenho 18 anos e sou de SÃ£o Paulo. Atualmente, estou cursando AnÃ
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="./logo-c.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <br>
 <br>
